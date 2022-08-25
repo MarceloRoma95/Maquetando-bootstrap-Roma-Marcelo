@@ -1,0 +1,23 @@
+.navbar{
+    padding: 2rem;
+}
+.row{
+    justify-content: center;
+}
+.card{
+    background-color: grey;
+    padding: 20px;
+    border: 3px black solid;
+}
+.color-nav{
+    background-color: rgb(141, 132, 132);
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+.preguntas{
+    text-decoration-line: underline;
+    padding: 10px; 
+}
